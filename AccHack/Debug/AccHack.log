@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\etix\source\repos\newrepo\acchack\acchack\adrclass.h(15): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+          copy-ctor oder copy-assignment Operator kann nicht generiert werden, wenn UDT ein Array der Größe Null enthält.
+  AccHack.vcxproj -> C:\Users\Etix\Source\Repos\NewRepo\AccHack\Debug\AccHack.exe
