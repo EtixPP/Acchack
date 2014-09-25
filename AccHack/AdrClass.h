@@ -14,7 +14,7 @@ private:
 	DWORD* ClassOffsets; //Offset array um beschreibbare Adresse herrauszufinden
 	char ClassValue[]; //eingesetzter Wert
 
-public:
+public: //test
 	//DEFINITION DER METHODEN
 	//KONSTRUKTOR
 	AdrClass(char* Value, DWORD BaseAdress, int OffsetNumber, DWORD* Offsets); //Definiert die Attribute
